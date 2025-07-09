@@ -13,7 +13,7 @@ To start off, I chose this project primarily because of two things, I wanted to 
 
 To start the development process, I noted which parts need to be imported from the EasyEDA library, and after which I did. Then after a reiterative, and recursive process with ChatGPT with asking questions about ports and parts, and subsequently switching to Gemini due to image upload limits, I finished the PCB Circuit. 
 
-For the circuit design, here's my [v0.5 schematic file](images/Circuit_Design/)
+For the circuit design, here's my [v0.5 schematic file](\images\Circuit_Design)
 
 Key components used:
 - NFC antenna coil
