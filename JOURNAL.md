@@ -11,7 +11,7 @@ created_at: "7-7-2025"
 
 To start off, I chose this project primarily because of two things, I wanted to make a cool item that was a convo starter, and also wanted to create something that I can use @ a CS event to network more effectively. This fit both of the criteria but I was also motivated bu the fact that I saw a really cool one and decide that I wanted to make one for myself. I didn't really took too much at tutorials, I used the Hack Club link for a PCB card [here](https://jams.hackclub.com/jam/hacker-card) to start but did not want to rely on it so that I can build my own understanding of PCB design. I also asked ChatGPT and Gemini most of my questions. 
 
-To start the development process, I noted which parts need to be imported from the EasyEDA library, and afterwhich I did. Then after a reiterative, and recurvsive process with ChatGPT with asking questions about ports and parts, and subsequently switching to Gemini due to image upload limits, I finished the PCB Circuit. 
+To start the development process, I noted which parts need to be imported from the EasyEDA library, and after which I did. Then after a reiterative, and recursive process with ChatGPT with asking questions about ports and parts, and subsequently switching to Gemini due to image upload limits, I finished the PCB Circuit. 
 
 For the circuit design, here's my [v0.5 schematic file](images/Circuit_Design/)
 
