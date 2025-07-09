@@ -13,7 +13,13 @@ To start off, I chose this project primarily because of two things, I wanted to 
 
 To start the development process, I noted which parts need to be imported from the EasyEDA library, and after which I did. Then after a reiterative, and recursive process with ChatGPT with asking questions about ports and parts, and subsequently switching to Gemini due to image upload limits, I finished the PCB Circuit. 
 
-For the circuit design, here's my [v0.5 schematic file](\images\Circuit_Design)
+For the circuit design, here's my v0.5 schematic file
+
+![Circuit](https://github.com/DevomB/PCB-Business-Card/blob/main/images/Circuit_Design.png?raw=true)
+
+Here is my V1 File
+
+![V1](https://github.com/DevomB/PCB-Business-Card/blob/main/images/v1_PCB_Design.png?raw=true)
 
 Key components used:
 - NFC antenna coil
@@ -32,7 +38,7 @@ Now that I woke up in the morning, I aimed to get the PCB and design part of thi
 
 Then I adjusted the location of the text and images so that they were inline with the auto-routed PCB, and I finished. 
 
-![v3.0_2d](images/v3_PCB_Design/v3.0_2d.png)
+![Here is my V2 File](https://github.com/DevomB/PCB-Business-Card/blob/main/images/v3_PCB_Design.png?raw=true)
 
 **Time Spent: 3.0h**
 
